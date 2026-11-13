@@ -1,0 +1,25 @@
+2026-11-12 17:48:16,625 INFO: Starting PQConnect
+2026-11-12 17:48:16,632 INFO: Starting DNS Proxy...
+2026-11-12 17:48:16,637 INFO: Starting TUN listener
+2026-11-12 17:48:16,641 INFO: Starting client
+2026-11-12 17:48:16,657 WARNING: Running as uid: 1001 euid: 1001 gid: 1001 euid: 1001 groups: [1001]
+2026-11-12 17:48:16,666 INFO: Listening on port 42423
+2026-11-12 17:51:23,927 INFO: Connecting to peer at 131.193.32.108 with pk hash htvv9k4wkfcmpx6rufjlt1qrr4mnv0dzygx5mlrjdfsxczbnzun0
+2026-11-12 17:51:25,315 INFO: [33;20mNew Session Established: [33;92m External IP:[0m 131.193.32.108 [33;92m Internal IP:[0m 10.43.0.2
+2026-11-12 17:54:16,876 INFO: Removing peer 131.193.32.108
+2026-11-12 17:58:36,731 INFO: Connecting to peer at 131.193.32.108 with pk hash htvv9k4wkfcmpx6rufjlt1qrr4mnv0dzygx5mlrjdfsxczbnzun0
+2026-11-12 17:58:37,022 INFO: [33;20mNew Session Established: [33;92m External IP:[0m 131.193.32.108 [33;92m Internal IP:[0m 10.43.0.2
+2026-11-12 18:00:47,184 INFO: Removing peer 131.193.32.108
+2026-11-12 18:03:50,815 INFO: Connecting to peer at 131.193.32.108 with pk hash htvv9k4wkfcmpx6rufjlt1qrr4mnv0dzygx5mlrjdfsxczbnzun0
+2026-11-12 18:03:51,079 INFO: [33;20mNew Session Established: [33;92m External IP:[0m 131.193.32.108 [33;92m Internal IP:[0m 10.43.0.2
+2026-11-12 18:06:18,018 INFO: Removing peer 131.193.32.108
+2026-11-12 18:08:04,935 INFO: Connecting to peer at 131.193.32.108 with pk hash htvv9k4wkfcmpx6rufjlt1qrr4mnv0dzygx5mlrjdfsxczbnzun0
+2026-11-12 18:08:05,184 INFO: [33;20mNew Session Established: [33;92m External IP:[0m 131.193.32.108 [33;92m Internal IP:[0m 10.43.0.2
+2026-11-12 18:10:18,059 INFO: Removing peer 131.193.32.108
+2026-11-12 18:22:38,334 INFO: Connecting to peer at 131.193.32.108 with pk hash htvv9k4wkfcmpx6rufjlt1qrr4mnv0dzygx5mlrjdfsxczbnzun0
+2026-11-12 18:22:38,450 INFO: Connecting to peer at 131.193.32.108 with pk hash htvv9k4wkfcmpx6rufjlt1qrr4mnv0dzygx5mlrjdfsxczbnzun0
+2026-11-12 18:22:38,559 INFO: [33;20mNew Session Established: [33;92m External IP:[0m 131.193.32.108 [33;92m Internal IP:[0m 10.43.0.2
+2026-11-12 18:24:48,379 INFO: Removing peer 131.193.32.108
+2026-11-12 18:33:53,406 INFO: Connecting to peer at 131.193.32.108 with pk hash htvv9k4wkfcmpx6rufjlt1qrr4mnv0dzygx5mlrjdfsxczbnzun0
+2026-11-12 18:33:53,674 INFO: [33;20mNew Session Established: [33;92m External IP:[0m 131.193.32.108 [33;92m Internal IP:[0m 10.43.0.2
+2026-11-12 18:36:18,817 INFO: Removing peer 131.193.32.108

@@ -1,0 +1,13 @@
+diff --git a/src/pqconnect/client.py b/src/pqconnect/client.py
+index 8f90df7..3e937c1 100644
+--- a/src/pqconnect/client.py
++++ b/src/pqconnect/client.py
+@@ -1,3 +1,8 @@
++import multiprocessing as _mp
++try:
++    _mp.set_start_method("fork")
++except RuntimeError:
++    pass
+ from multiprocessing import Event, Pipe, Process, active_children
+ from multiprocessing.connection import Connection
+ from multiprocessing.synchronize import Event as Ev
